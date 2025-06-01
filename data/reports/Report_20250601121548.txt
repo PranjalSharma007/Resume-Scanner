@@ -1,0 +1,33 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Rhodajackson        
+Email: rhodajackson@email.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: Full Stack Developer
+Company: TechFusion Inc      
+Location: Austin, TX          
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 100.0% (7/7)
+Matched: JavaScript, Node.js, React, MongoDB, Express, RESTful APIs, Git
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 20.0% (1/5)
+Matched: TypeScript
+Missing: AWS, Docker, GraphQL, CI/CD Pipelines
+
+WEIGHTED MATCH SCORE:80.0%
+
+FINAL RECOMMENDATION:
+---------------------
+STRONG MATCH - RECOMMENDED          
